@@ -1,3 +1,5 @@
-﻿  tables and linked lists.cpp
-C:\Users\student\source\repos\tables and linked lists\tables and linked lists\tables and linked lists.cpp(20,20): warning C4553: '==': result of expression not used; did you intend '='?
-  tables and linked lists.vcxproj -> C:\Users\student\source\repos\tables and linked lists\x64\Debug\tables and linked lists.exe
+﻿  DynamicArray.cpp
+  tables and linked lists.cpp
+  Generating Code...
+C:\Users\Jonasz\Desktop\Podstawy Programowania\tables and linked lists\tables and linked lists\DynamicArray.cpp(30): warning C4715: 'DynamicArray::findElement': not all control paths return a value
+  tables and linked lists.vcxproj -> C:\Users\Jonasz\Desktop\Podstawy Programowania\tables and linked lists\x64\Debug\tables and linked lists.exe

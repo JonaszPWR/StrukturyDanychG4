@@ -2,7 +2,7 @@
 #include "DynamicArray.h"
 using namespace std;
 
-//TODO: testy, addElement() w DynamicArray.cpp dla dowolnego indeksu
+//TODO: testy
 
 struct Link
 {
@@ -50,7 +50,9 @@ int main()
     test.removeElement(0);
     test.findElement(1734);
     test.findElement(9);
+    test.addElement(5, 1);
     test.display();
+
     /*LinkedList test2;
     test2.addLink(3);
     test2.addLink(4);

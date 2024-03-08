@@ -16,6 +16,22 @@ void DynamicArray::addElement(int element)
     array[currentSize] = element;
     currentSize++;
 }
+void DynamicArray::addElement(int element, int index)
+{
+    if (index > currentSize)
+    {
+        cout << "Invalid index!\n";
+        return;
+    }
+    if (currentSize == maxSize)
+        growArray();
+    for (int i = currentSize-1; i >= index; i--)
+    {
+        array[i + 1] = array[i];
+    }
+    array[index] = element;
+    currentSize++;
+}
 int DynamicArray::findElement(int element)
 {
     for (int i = 0; i < currentSize; i++)
@@ -57,6 +73,10 @@ void DynamicArray::growArray()
 void DynamicArray::display()
 {
     for (int i = 0; i < currentSize; i++)
-        cout << array[i] << ", ";
-    cout << "\nMax size: " << maxSize;
+    {
+        if (i)
+            cout << ", ";
+        cout << array[i];
+    }
+    cout << "\nMax size: " << maxSize << endl;
 }

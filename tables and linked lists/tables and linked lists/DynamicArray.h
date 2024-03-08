@@ -11,6 +11,7 @@ private:
 public:
     DynamicArray();
     void addElement(int element);
+    void addElement(int element, int index);
     int findElement(int element);
     void removeElement(int index);
     void growArray(); 

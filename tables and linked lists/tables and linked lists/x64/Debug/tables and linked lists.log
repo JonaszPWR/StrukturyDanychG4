@@ -1,5 +1,3 @@
 ﻿  DynamicArray.cpp
-  tables and linked lists.cpp
-  Generating Code...
-C:\Users\Jonasz\Desktop\Podstawy Programowania\tables and linked lists\tables and linked lists\DynamicArray.cpp(30): warning C4715: 'DynamicArray::findElement': not all control paths return a value
-  tables and linked lists.vcxproj -> C:\Users\Jonasz\Desktop\Podstawy Programowania\tables and linked lists\x64\Debug\tables and linked lists.exe
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\DynamicArray.cpp(46): warning C4715: 'DynamicArray::findElement': not all control paths return a value
+  tables and linked lists.vcxproj -> C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\x64\Debug\tables and linked lists.exe

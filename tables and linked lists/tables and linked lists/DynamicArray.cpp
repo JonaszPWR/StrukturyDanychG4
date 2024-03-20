@@ -78,5 +78,4 @@ void DynamicArray::display()
             cout << ", ";
         cout << array[i];
     }
-    cout << "\nMax size: " << maxSize << endl;
 }

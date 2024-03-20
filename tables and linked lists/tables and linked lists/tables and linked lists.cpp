@@ -8,36 +8,51 @@ struct Link
 {
     int value;
     Link* next;
+    Link()
+    {
+        value = 0;
+        next = NULL;
+    }
     Link(int element)
     {
         this->value = element;
-        this->next = nullptr;
+        this->next = NULL;
     }
 };
 
 struct LinkedList //TODO: usuwanie i wyszukiwanie
 {
     Link* head;
-    LinkedList()
-    {
-        this->head = nullptr;
-    }
+    LinkedList() { head = NULL; }
     void addLink(int element)
     {
         Link* newLink = new Link(element);
-        newLink->next = this->head;
-        this->head = newLink;
+        if (head == NULL) {
+            head = newLink;
+            return;
+        }
+        
+        Link* temp = head;
+        while (temp->next != NULL) {
+
+            temp = temp->next;
+        }
+ 
+        temp->next = newLink;
     }
     void display()
     {
-        while (head->value)
+        Link* temp = head;
+        if (head == NULL)
         {
-            cout << head->value;//TODO: b³¹d memory access
-            head = head->next;
-            if (head)
-                cout << ", ";
+            cout << "List empty" << endl;
+            return;
         }
-        cout << endl;
+        while (temp != NULL)
+        {
+            cout << temp->value << ", ";
+            temp = temp->next;
+        }
     }
 };
 
@@ -53,8 +68,8 @@ int main()
     test.addElement(5, 1);
     test.display();
 
-    /*LinkedList test2;
+    LinkedList test2;
     test2.addLink(3);
     test2.addLink(4);
-    test2.display();*/
+    test2.display();
 }

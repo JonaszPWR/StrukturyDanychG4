@@ -38,11 +38,11 @@ int DynamicArray::findElement(int element)
     {
         if (array[i] == element)
         {
-            cout << "Element " << element << " is at index " << i << ".\n";
+            //cout << "Element " << element << " is at index " << i << ".\n";
             return i;
         }
-        return -1;
     }
+    return -1;
 }
 void DynamicArray::removeElement(int index)
 {

@@ -1,2 +1,65 @@
-﻿  tables and linked lists.cpp
-  tables and linked lists.vcxproj -> C:\Users\student\Downloads\StrukturyDanychG4-main\tables and linked lists\x64\Debug\tables and linked lists.exe
+﻿  DynamicArray.cpp
+  tables and linked lists.cpp
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(12,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(73,38): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(73,38): warning C4244:         with
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(73,38): warning C4244:         [
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(73,38): warning C4244:             _Rep=__int64
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(73,38): warning C4244:         ]
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(86,38): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(86,38): warning C4244:         with
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(86,38): warning C4244:         [
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(86,38): warning C4244:             _Rep=__int64
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(86,38): warning C4244:         ]
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(101,38): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(101,38): warning C4244:         with
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(101,38): warning C4244:         [
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(101,38): warning C4244:             _Rep=__int64
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(101,38): warning C4244:         ]
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(114,38): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(114,38): warning C4244:         with
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(114,38): warning C4244:         [
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(114,38): warning C4244:             _Rep=__int64
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(114,38): warning C4244:         ]
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(129,38): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(129,38): warning C4244:         with
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(129,38): warning C4244:         [
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(129,38): warning C4244:             _Rep=__int64
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(129,38): warning C4244:         ]
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(148,38): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(148,38): warning C4244:         with
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(148,38): warning C4244:         [
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(148,38): warning C4244:             _Rep=__int64
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(148,38): warning C4244:         ]
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(161,38): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(161,38): warning C4244:         with
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(161,38): warning C4244:         [
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(161,38): warning C4244:             _Rep=__int64
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(161,38): warning C4244:         ]
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(176,38): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(176,38): warning C4244:         with
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(176,38): warning C4244:         [
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(176,38): warning C4244:             _Rep=__int64
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(176,38): warning C4244:         ]
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(189,38): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(189,38): warning C4244:         with
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(189,38): warning C4244:         [
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(189,38): warning C4244:             _Rep=__int64
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(189,38): warning C4244:         ]
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(204,38): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(204,38): warning C4244:         with
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(204,38): warning C4244:         [
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(204,38): warning C4244:             _Rep=__int64
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(204,38): warning C4244:         ]
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(217,38): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(217,38): warning C4244:         with
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(217,38): warning C4244:         [
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(217,38): warning C4244:             _Rep=__int64
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\tables and linked lists\tables and linked lists.cpp(217,38): warning C4244:         ]
+  Generating Code...
+tables and linked lists.obj : error LNK2019: unresolved external symbol "public: void __cdecl LinkedList::addLink(int)" (?addLink@LinkedList@@QEAAXH@Z) referenced in function main
+tables and linked lists.obj : error LNK2019: unresolved external symbol "public: void __cdecl LinkedList::addLinkAtStart(int)" (?addLinkAtStart@LinkedList@@QEAAXH@Z) referenced in function main
+tables and linked lists.obj : error LNK2019: unresolved external symbol "public: void __cdecl LinkedList::removeLink(int)" (?removeLink@LinkedList@@QEAAXH@Z) referenced in function main
+tables and linked lists.obj : error LNK2019: unresolved external symbol "public: int __cdecl LinkedList::findElement(int)" (?findElement@LinkedList@@QEAAHH@Z) referenced in function main
+tables and linked lists.obj : error LNK2019: unresolved external symbol "public: void __cdecl LinkedList::display(void)" (?display@LinkedList@@QEAAXXZ) referenced in function main
+C:\Users\Jonasz\Documents\GitHub\StrukturyDanychG4\tables and linked lists\x64\Debug\tables and linked lists.exe : fatal error LNK1120: 5 unresolved externals

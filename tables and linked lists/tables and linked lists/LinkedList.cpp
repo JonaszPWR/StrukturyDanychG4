@@ -58,7 +58,7 @@ int LinkedList::findElement(int value)
     {
         if (temp->value == value)
         {
-            return index;
+            return value;
         }
         temp = temp->next;
         index++;
